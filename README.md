@@ -96,17 +96,10 @@
 ## 📬 Conéctate conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/josé-luis-oporto-valenzuela-9676a9293" target="_blank">
+  <a href="https://www.youtube.com/watch?v=QX43QTYyV-8&pp=ygUJI3lhb3JlY29k" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/IgnacioEspinosa-ist/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61575347607030" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-</p>
-
+ 
 <p align="center">
   ✨ *Última edición: 15/04/2025* ✨
 </p>
